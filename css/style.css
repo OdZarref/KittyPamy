@@ -44,7 +44,7 @@ input#open {
     position: absolute;
     width: 280px;
     height: 280px;
-    background-color: #d04e4e;
+    background-color: #ff4a4a;
     top: 10px;
     left: 10px;
 }
@@ -145,7 +145,7 @@ input#open {
 
 .heart {
     position: relative;
-    background-color: #d04e5e;
+    background-color: #ff4a4a;
     height: 60px;
     width: 60px;
     top: 180px;
@@ -160,7 +160,7 @@ input#open {
     border-radius: 50%;
     height: 60px;
     width: 60px;
-    background-color: #d04e4e;
+    background-color: #ff4a4a;
 }
 
 .heart:before {

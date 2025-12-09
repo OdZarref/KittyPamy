@@ -1,0 +1,11 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- pétalas -->
+  <circle cx="128" cy="70"  r="45" fill="#e63946"/>
+  <circle cx="178" cy="110" r="45" fill="#e63946"/>
+  <circle cx="158" cy="170" r="45" fill="#e63946"/>
+  <circle cx="98"  cy="170" r="45" fill="#e63946"/>
+  <circle cx="78"  cy="110" r="45" fill="#e63946"/>
+
+  <!-- miolo -->
+  <circle cx="128" cy="128" r="38" fill="#ffcc00"/>
+</svg>
